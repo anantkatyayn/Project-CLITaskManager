@@ -21,7 +21,7 @@ A simple yet powerful **Command-Line Interface (CLI)** application to manage tas
 1. Clone the repository:
    ```bash
    git clone https://github.com/anantkatyayn/Project-CLITaskManager.git
-   cd task-manager-cli
+   cd Project-CLITaskManager
    ```
 
 2. Install required dependencies:
@@ -103,4 +103,4 @@ python task_manager.py --search "interview"
 
 For any questions or feedback, feel free to reach out:
 - **Email**: anantkatyayn112@gmail.com
-- **GitHub**: [your-username](https://github.com/anantkatyayn)
+- **GitHub**: [anantkatyayn](https://github.com/anantkatyayn)
